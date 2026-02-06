@@ -1,0 +1,9 @@
+{
+  "name": "dos-griefing-analysis",
+  "version": "1.0.0",
+  "description": "Detects Denial of Service and griefing vulnerabilities in smart contracts — OWASP SC10. Covers unbounded loops, block gas limit exhaustion, external call failure DoS, insufficient gas griefing (63/64 rule), storage bloat, timestamp griefing, self-destruct force-feeding, and push vs pull payment pattern analysis.",
+  "author": {
+    "name": "QuillShield",
+    "url": "https://github.com/quillshield"
+  }
+}

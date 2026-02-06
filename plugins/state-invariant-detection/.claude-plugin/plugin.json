@@ -1,0 +1,9 @@
+{
+  "name": "state-invariant-detection",
+  "version": "1.0.0",
+  "description": "Detects broken mathematical relationships between state variables in smart contracts. Automatically infers invariants (sum, conservation, ratio, monotonic, synchronization) then finds functions that violate them. Catches unauthorized minting, broken tokenomics, and accounting desynchronization.",
+  "author": {
+    "name": "QuillShield",
+    "url": "https://github.com/quillshield"
+  }
+}

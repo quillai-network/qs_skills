@@ -1,0 +1,9 @@
+{
+  "name": "semantic-guard-analysis",
+  "version": "1.0.0",
+  "description": "Detects logic vulnerabilities in smart contracts by analyzing guard-state consistency patterns. Uses the Consistency Principle to find functions that bypass security checks (require, modifiers) established by the contract's own patterns.",
+  "author": {
+    "name": "QuillShield",
+    "url": "https://github.com/quillshield"
+  }
+}

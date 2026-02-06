@@ -1,0 +1,9 @@
+{
+  "name": "behavioral-state-analysis",
+  "version": "1.0.0",
+  "description": "Multi-dimensional smart contract security auditing using Behavioral State Analysis (BSA). Combines behavioral intent extraction, parallel threat engines (economic, access control, state integrity), adversarial simulation with PoC generation, and Bayesian confidence scoring.",
+  "author": {
+    "name": "QuillShield",
+    "url": "https://github.com/quillshield"
+  }
+}
