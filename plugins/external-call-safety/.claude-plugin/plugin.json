@@ -4,6 +4,6 @@
   "description": "Detects unsafe external call patterns and token integration vulnerabilities in smart contracts. Covers unchecked call return values, fee-on-transfer tokens, rebasing tokens, missing ERC20 return values (USDT), ERC-777 callback risks, unsafe approve patterns, return data bombs, and pull vs push payment analysis. Addresses OWASP SC06.",
   "author": {
     "name": "QuillShield",
-    "url": "https://github.com/quillshield"
+    "url": "https://github.com/quillai-network"
   }
 }

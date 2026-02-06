@@ -4,6 +4,6 @@
   "description": "Systematic detection of all reentrancy variants in smart contracts — classic, cross-function, cross-contract, and read-only reentrancy. Verifies CEI pattern compliance, traces external call positions relative to state changes, and detects callback-based attack vectors through ERC-777/ERC-1155 hooks.",
   "author": {
     "name": "QuillShield",
-    "url": "https://github.com/quillshield"
+    "url": "https://github.com/quillai-network"
   }
 }

@@ -4,6 +4,6 @@
   "description": "Detects input validation failures and arithmetic vulnerabilities in smart contracts — the #1 direct exploitation cause at 34.6% of cases. Covers missing zero-checks, precision loss from division-before-multiplication, rounding direction exploitation, ERC4626 inflation attacks, unsafe casting, dust amount exploitation, and Solidity 0.8+ edge cases in unchecked blocks.",
   "author": {
     "name": "QuillShield",
-    "url": "https://github.com/quillshield"
+    "url": "https://github.com/quillai-network"
   }
 }

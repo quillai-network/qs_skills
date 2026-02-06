@@ -4,6 +4,6 @@
   "description": "Detects price oracle manipulation and flash loan attack vectors in DeFi smart contracts. Classifies oracle trust models (Chainlink, TWAP, spot price), identifies stale price risks, circular dependencies, and flash loan atomicity exploitation patterns. Covers the #2 OWASP Smart Contract vulnerability category.",
   "author": {
     "name": "QuillShield",
-    "url": "https://github.com/quillshield"
+    "url": "https://github.com/quillai-network"
   }
 }

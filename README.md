@@ -1,6 +1,14 @@
 # QuillShield Security Skills
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 AI agent skills for advanced smart contract security auditing. These skills teach AI agents (Claude, Cursor) the QuillShield methodology for detecting vulnerabilities that traditional static analysis tools miss.
+
+## Quick start
+
+- **Claude:** Install this repo as a Claude plugin; the marketplace is defined in `.claude-plugin/marketplace.json`. Enable the plugins you need for your audit.
+- **Cursor:** Reference a skill when auditing — e.g. `@plugins/reentrancy-pattern-analysis/skills/reentrancy-pattern-analysis/SKILL.md` — or copy plugin `skills/` folders into your Cursor skills directory.
+- **Use the right skill:** See the table below and the [Skills Overview](#skills-overview) for when to use each plugin.
 
 ## Skills Overview
 
@@ -243,4 +251,15 @@ Original source documents:
 - `poc_new_approaches/semantic_analyzer/newApproach.md` — Behavioral State Analysis methodology
 - `poc_new_approaches/semantic_analyzer/semantic_state_protocol.md` — Guard-state consistency detection
 - `poc_new_approaches/semantic_analyzer/semantic_state_to_state_protocol.md` — State-state invariant detection
-# qs_skills
+
+## Contributing
+
+We welcome contributions: fixes to existing skills, new references, or new plugins. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for how to propose changes and open pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Code of Conduct
+
+This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you agree to uphold it.

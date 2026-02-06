@@ -4,7 +4,7 @@
   "description": "QuillShield smart contract security auditing skills for AI agents. Comprehensive coverage of OWASP Smart Contract Top 10 plus proxy/upgrade, signature replay, and token integration vulnerabilities. Includes Behavioral State Analysis (BSA), Semantic Guard Analysis, State Invariant Detection, Reentrancy Pattern Analysis, Oracle & Flash Loan Analysis, Proxy & Upgrade Safety, Input & Arithmetic Safety, External Call Safety, Signature & Replay Analysis, and DoS & Griefing Analysis.",
   "author": {
     "name": "QuillShield",
-    "url": "https://github.com/quillshield"
+    "url": "https://github.com/quillai-network"
   },
   "plugins": [
     "plugins/behavioral-state-analysis",

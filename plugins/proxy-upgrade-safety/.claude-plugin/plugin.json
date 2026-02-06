@@ -4,6 +4,6 @@
   "description": "Detects vulnerabilities in upgradeable proxy smart contracts — storage layout collisions, uninitialized implementations, function selector clashing, and upgrade path safety issues. Covers Transparent, UUPS, Beacon, Diamond (EIP-2535), and Minimal proxy patterns. Critical for the 54.2% of Ethereum contracts that use proxy architecture.",
   "author": {
     "name": "QuillShield",
-    "url": "https://github.com/quillshield"
+    "url": "https://github.com/quillai-network"
   }
 }
