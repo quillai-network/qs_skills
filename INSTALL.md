@@ -5,8 +5,8 @@
 Clone the repo and run the install script:
 
 ```bash
-git clone https://github.com/quillai-network/qs_skill.git
-cd qs_skill && bash install.sh
+git clone https://github.com/quillai-network/qs_skills.git
+cd qs_skills && bash install.sh
 ```
 
 ## Manual Install
